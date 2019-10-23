@@ -11,5 +11,6 @@ class KLTestClass {
     }
     func textPrint() {
         print("testPrint")
+        print("testPrint0.0.3")
     }
 }

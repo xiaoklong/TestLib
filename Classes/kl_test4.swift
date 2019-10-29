@@ -1,11 +1,11 @@
 
 import Foundation
 
-enum KLTestEnum {
+enum KLTestEnum3 {
     case one,two
 }
 
-class KLTestClass {
+class KLTestClass3 {
     init() {
         
     }
